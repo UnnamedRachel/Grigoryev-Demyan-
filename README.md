@@ -7,3 +7,5 @@
 Презентпция CYBERCAMP https://docs.google.com/presentation/d/1jDpvuqQzdFFhQLEDYA4aO6154I-fWmltq_K0IAK6GAo/edit#slide=id.p1
 
 День памяти погибшим при исполнении https://docs.google.com/document/d/17NoJ-9BrZKvNT-Y96EQEHXCS8mYNprSu3MLUDYkYcQ0/edit?usp=drive_link
+
+Stepik https://drive.google.com/file/d/1-DNpoPb-XaQStUyL9n5tvFXPERywRiyE/view?usp=drive_link

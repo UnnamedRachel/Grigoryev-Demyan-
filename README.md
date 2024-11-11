@@ -15,3 +15,5 @@ Stepik https://drive.google.com/file/d/1-DNpoPb-XaQStUyL9n5tvFXPERywRiyE/view?us
 YouGile https://ru.yougile.com/board/uy1283wc0q64
 
 Конспект ОС https://docs.google.com/document/d/1KMzkxz8DBSuFcSPanGsk1TZpsr3breZu9FS0lA8ZvE0/edit?usp=drivesdk
+
+Коррупция 

@@ -1,4 +1,4 @@
-# Grigoryev-Demyan- GitHub https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto
+# Grigoryev-Demyan- https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto
 
 Конспект https://docs.google.com/document/d/1hiEIj6x259u12VoZMevRaZ642V5Vr_yO3pgHgw9rt1s/edit
 
@@ -16,4 +16,4 @@ YouGile https://ru.yougile.com/board/uy1283wc0q64
 
 Конспект ОС https://docs.google.com/document/d/1KMzkxz8DBSuFcSPanGsk1TZpsr3breZu9FS0lA8ZvE0/edit?usp=drivesdk
 
-Коррупция 
+Коррупция https://docs.google.com/presentation/d/1lMb9BqtHWdQmgwm584XXJwY9kH0MCQCO1bKuEqEDh3I/edit?usp=drivesdk

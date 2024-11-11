@@ -11,3 +11,5 @@
 Stepik https://drive.google.com/file/d/1-DNpoPb-XaQStUyL9n5tvFXPERywRiyE/view?usp=drive_link
 
 Цифровой диктант https://drive.google.com/file/d/1l5gcwnXrfg7KZEpCttgoe6OdLHFXrJSV/view?usp=drive_link
+
+YouGile https://ru.yougile.com/board/uy1283wc0q64

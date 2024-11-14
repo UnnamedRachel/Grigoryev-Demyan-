@@ -1,4 +1,4 @@
-# Grigoryev-Demyan- https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto
+# Grigoryev-Demyan- Google Drive https://drive.google.com/drive/folders/1c0prYm7isBFnZB5ZhX-4UOLWV5KLORQ0?usp=drive_link
 
 Конспект https://docs.google.com/document/d/1hiEIj6x259u12VoZMevRaZ642V5Vr_yO3pgHgw9rt1s/edit
 

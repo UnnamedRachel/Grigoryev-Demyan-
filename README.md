@@ -8,7 +8,7 @@
 
 День памяти погибшим при исполнении https://docs.google.com/document/d/17NoJ-9BrZKvNT-Y96EQEHXCS8mYNprSu3MLUDYkYcQ0/edit?usp=drive_link
 
-Stepik https://drive.google.com/file/d/1-DNpoPb-XaQStUyL9n5tvFXPERywRiyE/view?usp=drive_link
+Stepik https://docs.google.com/document/d/1x964PSi3g-n_cXDeQVThlORiYiZAtvmddb8p9NuxGwY/edit?usp=drive_link
 
 Цифровой диктант https://drive.google.com/file/d/1l5gcwnXrfg7KZEpCttgoe6OdLHFXrJSV/view?usp=drive_link
 
@@ -17,3 +17,5 @@ YouGile https://ru.yougile.com/team/10373fd869d5/%D0%98%D0%BD%D0%B4%D0%B8%D0%B2%
 Конспект ОС https://docs.google.com/document/d/1KMzkxz8DBSuFcSPanGsk1TZpsr3breZu9FS0lA8ZvE0/edit?usp=drivesdk
 
 Коррупция https://docs.google.com/presentation/d/1lMb9BqtHWdQmgwm584XXJwY9kH0MCQCO1bKuEqEDh3I/edit?usp=drivesdk
+
+Лекция Python https://docs.google.com/document/d/12BJ6rM2kkWmFJbrv1x_r4TE7cUI140w_z9i67YoZ0CQ/edit?usp=drive_link

@@ -25,3 +25,5 @@ YouGile https://ru.yougile.com/team/10373fd869d5/%D0%98%D0%BD%D0%B4%D0%B8%D0%B2%
 Хакер,индивидуальный проект https://docs.google.com/document/d/1hqQoik0bZigcgalZwMc5Dj2w6aW5P5yTomC5PR24FPA/edit?usp=drivesdk
 
 Конспект введение в специальность https://docs.google.com/document/d/1CcktJDQoclGVBQ1khemxHnIALt0kl2CIHxutSgwzVDo/edit?tab=t.0
+
+Конспект BASH https://docs.google.com/document/d/1oj0Gi1bElOiIgPaZS5PFJ361tB5fVTyRXk1ESiNYFQY/edit?tab=t.0
